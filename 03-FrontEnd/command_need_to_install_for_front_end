@@ -1,0 +1,14 @@
+installation commands
+
+npm install 
+nvm install 16.17.0
+nvm use 16.17.0
+
+npm install --location=global typescript@4.7.4
+
+npm install react-router-dom@5
+
+
+
+npm i @okta/okta-signin-widget@6.3.3
+npm i @okta/okta-react@6.4.3
